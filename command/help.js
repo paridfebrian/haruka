@@ -94,8 +94,8 @@ ${mundur}
  • ${prefix}delsetproses
  • ${prefix}changeproses
  • ${prefix}setproses
- • proses < reply chat >
- • done < reply chat >${petik}
+ • proses < reply chat >${fs}
+ • done < reply chat >${fs}
 
 *RPG GAMES*${petik}
  • ${prefix}inventory
@@ -172,6 +172,7 @@ ${mundur}
  • ${prefix}demote
  • ${prefix}revoke
  • ${prefix}hidetag
+ • ${prefix}tagall
  • ${prefix}checksewa${petik}
 
 *GAME MENU*${petik}
